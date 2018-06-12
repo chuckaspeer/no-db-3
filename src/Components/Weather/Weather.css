@@ -1,0 +1,24 @@
+.a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+.incity {
+    font-size: 30px;
+}
+.wd {
+    font-size: 20px;
+
+}
+.saved {
+    font-size: 20px;
+   
+}
+.saved2 {
+     border-style: 10px solid black;
+}
+.savedCity {
+    font-size: 40px;
+    margin: 5px;
+    padding: 0px;
+}
